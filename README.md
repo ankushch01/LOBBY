@@ -1,2 +1,3 @@
 # LOBBY
-This is my first collabart=ation
+This is my first collaboration
+bond mra lodi deya
